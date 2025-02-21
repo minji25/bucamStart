@@ -1,0 +1,7 @@
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart5\bin\Debug\bucamStart5.exe.config
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart5\bin\Debug\bucamStart5.exe
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart5\bin\Debug\bucamStart5.pdb
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart5\obj\Debug\bucamStart5.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart5\obj\Debug\bucamStart5.csproj.CoreCompileInputs.cache
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart5\obj\Debug\bucamStart5.exe
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart5\obj\Debug\bucamStart5.pdb
