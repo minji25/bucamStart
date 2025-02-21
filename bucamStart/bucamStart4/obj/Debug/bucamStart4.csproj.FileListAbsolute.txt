@@ -1,0 +1,7 @@
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart4\bin\Debug\bucamStart4.exe.config
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart4\bin\Debug\bucamStart4.exe
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart4\bin\Debug\bucamStart4.pdb
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart4\obj\Debug\bucamStart4.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart4\obj\Debug\bucamStart4.csproj.CoreCompileInputs.cache
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart4\obj\Debug\bucamStart4.exe
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart4\obj\Debug\bucamStart4.pdb
