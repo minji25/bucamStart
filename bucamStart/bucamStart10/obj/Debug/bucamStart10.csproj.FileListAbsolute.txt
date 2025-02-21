@@ -1,0 +1,2 @@
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart10\obj\Debug\bucamStart10.csproj.AssemblyReference.cache
+C:\Users\zakij\OneDrive\문서\GitHub\bucamStart\bucamStart\bucamStart10\obj\Debug\bucamStart10.csproj.CoreCompileInputs.cache
