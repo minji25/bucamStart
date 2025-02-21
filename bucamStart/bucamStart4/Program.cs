@@ -16,6 +16,7 @@ namespace bucamStart4
             float att = 56.7f;
             char rank = 'S';
 
+            Console.WriteLine("캐릭터");
             Console.WriteLine(charactername);
             Console.WriteLine(hp);
             Console.WriteLine(att);
